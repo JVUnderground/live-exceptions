@@ -1,8 +1,8 @@
-# live-exceptions
+# Live-Exceptions
 A Django middleware that logs exceptions to database
 
 ## Using Live-Exceptions
-To use this middleware, all you need to do to is editing your django settings.
+To use this middleware, all you need to do to is edit your django settings.
 ```
 MIDDLEWARE_CLASSES = [
     ...
